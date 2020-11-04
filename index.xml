@@ -13,6 +13,15 @@
       <pubDate>Mon, 12 Oct 2020 01:47:10 +0800</pubDate>
       
       <guid>https://HungryHighness.github.io/2020/10/12/test/</guid>
+      <description>冒泡排序 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 public static void BubbleSort(int[] items) { if (items == null) { return; } for (int i = items.Length - 1; i &amp;gt;= 0; i--) { for (int j = 1; j &amp;lt;= i; j++) { if (items[j - 1] &amp;gt; items[j]) { int temp = items[j</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://HungryHighness.github.io/2020/10/12/test/</link>
+      <pubDate>Mon, 12 Oct 2020 01:47:10 +0800</pubDate>
+      
+      <guid>https://HungryHighness.github.io/2020/10/12/test/</guid>
       <description>简介 仅仅用于测试网页使用 冒泡排序 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 public static void BubbleSort(int[] items) { if (items == null) { return; } for (int i = items.Length - 1; i &amp;gt;= 0; i--) { for (int j = 1; j &amp;lt;= i; j++)</description>
     </item>
     
